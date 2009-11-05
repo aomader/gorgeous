@@ -1,0 +1,30 @@
+gorgeous - A titlebarless PekWM theme
+
+  Copyright (C) 2009  Oliver Mader <dotb52@gmail.com>
+    http://reaktor42.de
+
+  This work is licensed under the Creative Commons
+  Attribution-Noncommercial-Share Alike 3.0 Unported License. To view a copy
+  of this license, visit http://creativecommons.org/licenses/by-nc-sa/3.0/
+  or send a letter to Creative Commons, 171 Second Street, Suite 300,
+  San Francisco, California, 94105, USA.
+  
+Requirements
+============
+This theme makes use of a font called 'gelly' out of the Artwiz fonts
+package.
+It also requires PekWM in version 0.1.11, maybe it runs fine with other
+versions but it's currently only tested with this version.
+
+Install
+=======
+Extract the archive and copy the folder 'gorgeous' to your PekWM
+themes folder, e.g. ~/.pekwm/themes/ or /usr/share/pekwm/themes/
+That might differ from system to system.
+
+Authors
+=======
+Markus Cisler  <bl1nk@tlen.pl>
+  - created the initial openbox theme this theme is based on
+Oliver Mader  <dotb52@gmail.com>
+
